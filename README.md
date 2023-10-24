@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Frontend Developer and a Product Manager</h3>
 <img align ="center" alt="Coding" width="400" src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejashwatiwari" alt="tejashwatiwari" /></a> </p>
-
 - 🔭 I’m currently working at **Tenant Inc**
 
 - 🌱 I’m currently learning **ReactJS, VueJS**
