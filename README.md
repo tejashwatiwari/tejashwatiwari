@@ -1,8 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Tejashwa Tiwari</h1>
-<img align ="center" alt="Coding" width="500" src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
 <h3 align="center">A passionate Frontend Developer and a Product Manager</h3>
+
+
 
 - 🔭 I’m currently working as a Product Manager at **Tenant Inc**
 
