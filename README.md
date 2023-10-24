@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejashwa Tiwari</h1>
 <h3 align="center">A passionate Frontend Developer and a Product Manager</h3>
-<img align ="right" alt="Coding" width="400" src="https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4"
+<img align ="right" alt="Coding" width="400" src="[https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001)"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejashwatiwari" alt="tejashwatiwari" /></a> </p>
 
