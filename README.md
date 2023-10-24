@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejashwatiwari](https://github.com/tejashwatiwari)
 
-- 💬 Ask me about **Product Management, React**
-
 - 📫 How to reach me **hello@tejashwa.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1iAFWYbY_jtij1ZD4xHayB0lzUe44KWPD/view?usp=sharing](https://drive.google.com/file/d/1iAFWYbY_jtij1ZD4xHayB0lzUe44KWPD/view?usp=sharing)
