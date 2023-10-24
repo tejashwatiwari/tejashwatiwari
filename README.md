@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Frontend Developer and a Product Manager</h3>
 <img align ="left" alt="Coding" width="400" src="https://media.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif">
 
-<p align="center">
 - 🔭 I’m currently working as a **Product Manager** at **Tenant Inc**
 
 - 🌱 I’m currently learning **ReactJS, VueJS**
