@@ -17,9 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejashwatiwari](https://github.com/tejashwatiwari)
 
-- 📫 How to reach me **hello@tejashwa.com**
+- 📫 How to reach me ****tejashwatiwari@gmail.com***
 
-- 📄 Resume [https://drive.google.com/file/d/1iAFWYbY_jtij1ZD4xHayB0lzUe44KWPD/view?usp=sharing](https://drive.google.com/file/d/1iAFWYbY_jtij1ZD4xHayB0lzUe44KWPD/view?usp=sharing)
 
 <div align=center>
 <h3 align="left">Connect with me:</h3>
