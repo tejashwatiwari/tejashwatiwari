@@ -15,11 +15,6 @@
 
 - 🌱 I’m currently learning **ReactJS, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tejashwatiwari](https://github.com/tejashwatiwari)
-
-- 📫 How to reach me ****tejashwatiwari@gmail.com***
-
-
 <div align=center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
